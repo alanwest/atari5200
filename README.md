@@ -40,36 +40,36 @@ No.
 
 ## Photos
 
-Atari 5200 w/ Q*bert cartridge. Atari shows same behavior with any cartridge.
+### Atari 5200
+
+With Q*bert cartridge. Atari shows same behavior with any cartridge.
 
 <img width="600px" src="/photos/atari5200.jpg" />
 
----
+### Circuit board
+
+<img width="600px" src="/photos/circuit_board.jpg" />
+
+### RF Adapter
 
 I purchased this RF adapter a few years ago from Amazon. [Here is a similar product](https://www.amazon.com/VCE-Adapter-Connector-Coaxial-Commodore/dp/B08BYD8GV4) but not the exact one I purchased.
 
 <img width="600px" src="/photos/rf_adapter.jpg" />
 
----
+### Powered on
 
-Powered on. Channel 4. Sometimes there is a brief scratch sound from speakers upon powering on, but otherwise no audio from game.
+Switched to channel 4. Sometimes there is a brief scratch sound from speakers upon powering on, but otherwise no audio from game.
 
 <img width="600px" src="/photos/powered_on_ch4.jpg" />
 
----
-
-Powered off. Channel 4.
+### Powered off
 
 <img width="600px" src="/photos/powered_off_ch4.jpg" />
 
----
-
-Power supply
+### Power supply
 
 <img width="600px" src="/photos/power_supply.jpg" />
 
----
-
-Serial number
+### Serial number
 
 <img width="600px" src="/photos/serial_number.jpg" />
