@@ -48,7 +48,15 @@ With Q*bert cartridge. Atari shows same behavior with any cartridge.
 
 ### Circuit board
 
-<img width="600px" src="/photos/circuit_board.jpg" />
+<img width="600px" src="/photos/circuit_board.jpg" /><br />
+<img width="600px" src="/photos/circuit_board_detail_1.jpg" /><br />
+<img width="600px" src="/photos/circuit_board_detail_2.jpg" /><br />
+<img width="600px" src="/photos/circuit_board_detail_3.jpg" /><br />
+<img width="600px" src="/photos/circuit_board_detail_4.jpg" /><br />
+<img width="600px" src="/photos/circuit_board_detail_5.jpg" /><br />
+<img width="600px" src="/photos/circuit_board_detail_6.jpg" /><br />
+<img width="600px" src="/photos/circuit_board_detail_7.jpg" /><br />
+<img width="600px" src="/photos/circuit_board_detail_8.jpg" />
 
 ### RF Adapter
 
